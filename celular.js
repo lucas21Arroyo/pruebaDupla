@@ -1,1 +1,2 @@
-console.log("agrega celular")
+console.log("Celular")
+console.log("gorra");
